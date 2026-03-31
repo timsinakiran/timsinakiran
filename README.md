@@ -60,11 +60,5 @@ final class KiranTimsina
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timsinakiran&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=timsinakiran&color=F75C7E&style=for-the-badge&label=Profile+Views" />
 </p>
