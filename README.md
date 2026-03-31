@@ -24,7 +24,7 @@ final class KiranTimsina
 
     public function expertise(): array
     {
-        return ['Laravel', 'PHP', 'Filament', 'Livewire', 'PostgreSQL', 'REST APIs'];
+        return ['Laravel', 'PHP', 'Filament', 'Livewire', 'React', 'Flutter', 'AWS', 'PostgreSQL'];
     }
 
     public function openSource(): string
@@ -45,7 +45,9 @@ final class KiranTimsina
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
